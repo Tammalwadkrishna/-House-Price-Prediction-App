@@ -66,13 +66,3 @@ streamlit
 pandas
 numpy
 scikit-learn
-🤝 Contributing
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
-📜 License
-This project is licensed under the MIT License.
-
-javascript
-Copy code
-
-Do you want me to **export this as a `README.md` file** so you can directly use it
